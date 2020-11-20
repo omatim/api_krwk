@@ -80,7 +80,7 @@
   		"type": "donor",
   		"lat": 52.288829,
   		"lon": 20.951134
-  	},
+  	}
   ],
   "confirm" : {
   	"messages": "OK"
