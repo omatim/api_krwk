@@ -59,20 +59,10 @@
   		"date": "2020-11-20T17:15:18Z"
   	}
   ],
-  "stats": [
-  	{
-  		"value": 21,
-  		"type": "recipient",
-  		"lat": 52.288829,
-  		"lon": 20.951134
-  	},
-  	{
-  		"value": 5,
-  		"type": "donor",
-  		"lat": 52.288829,
-  		"lon": 20.951134
-  	}
-  ],
+  "stats": {
+  		"donors": 5,
+  		"recipients": 21
+  },
   "confirm" : {
   	"messages": "OK"
   }
