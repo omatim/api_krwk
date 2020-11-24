@@ -9,52 +9,52 @@
   },
   "messages": [
   	{
-  		"messages": "Dziś oddałem osocze.",
+  		"message": "Dziś oddałem osocze.",
   		"name": "Kuba",
   		"date": "2020-11-19T09:22:18Z"
   	},
   	{
-  		"messages": "Dziękuję Kuba za osocze.",
+  		"message": "Dziękuję Kuba za osocze.",
   		"name": "Dorota",
   		"date": "2020-11-20T09:22:18Z"
   	},
   	{
-  		"messages": "Ja również dziękuję",
+  		"message": "Ja również dziękuję",
   		"name": "Wojtek",
   		"date": "2020-11-20T10:25:18Z"
   	},
   	{
-  		"messages": "Bierzcie i moje.",
+  		"message": "Bierzcie i moje.",
   		"name": "Marek",
   		"date": "2020-11-20T10:30:18Z"
   	},
   	{
-  		"messages": "Mam nadzieję że moje osocze pomoże.",
+  		"message": "Mam nadzieję że moje osocze pomoże.",
   		"name": "Krystyna",
   		"date": "2020-11-20T11:42:18Z"
   	},
   	{
-  		"messages": "Powodzenia!",
+  		"message": "Powodzenia!",
   		"name": "Michał",
   		"date": "2020-11-20T12:02:18Z"
   	},
   	{
-  		"messages": "Jesteście wspaniali",
+  		"message": "Jesteście wspaniali",
   		"name": "Magda",
   		"date": "2020-11-20T13:32:18Z"
   	},
   	{
-  		"messages": "Cudownie",
+  		"message": "Cudownie",
   		"name": "Kacper",
   		"date": "2020-11-20T14:47:18Z"
   	},
   	{
-  		"messages": "Świetnia robota",
+  		"message": "Świetnia robota",
   		"name": "Darek",
   		"date": "2020-11-20T15:36:18Z"
   	},
   	{
-  		"messages": "I o to chodziło.",
+  		"message": "I o to chodziło.",
   		"name": "Basia",
   		"date": "2020-11-20T17:15:18Z"
   	}
